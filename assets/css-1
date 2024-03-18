@@ -10,3 +10,8 @@
   font-weight: 700;
   src: url(s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf) format('truetype');
 }
+
+
+.newclass{
+	color:red;
+}
